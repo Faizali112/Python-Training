@@ -1,5 +1,5 @@
 This repo consists of materials from acmegrade training program in Data Science.
-Things which we learnt during this program:
+Topics learnt during this program are as follows:
 - Python Basics
 - NumPy
 - Pandas DataFrame
