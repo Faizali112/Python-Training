@@ -8,4 +8,4 @@ Topics learnt during this program are as follows:
 - Multiple Linear Regression
 - Naive Bayes, SVM & Decision Tree
 - Unsupervised learning \
-  ~continue~
+
