@@ -7,5 +7,6 @@ Topics learnt during this program are as follows:
 - Linear Regression
 - Multiple Linear Regression
 - Naive Bayes, SVM & Decision Tree
-- Unsupervised learning 
+- Unsupervised learning
+- Some real life projects also 
 
